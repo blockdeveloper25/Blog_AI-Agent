@@ -57,7 +57,13 @@ A Streamlit web application that generates social media content based on YouTube
 If you prefer to use the script version instead of the web app:
 
 ```
+# for GPT version
 python social_media_agent.py
+```
+
+```
+# for LLMA version
+python social_media_llma_agent.py
 ```
 
 This will run the agent with a default video ID and generate content for LinkedIn and Instagram.
