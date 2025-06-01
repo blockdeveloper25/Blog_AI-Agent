@@ -56,13 +56,15 @@ A Streamlit web application that generates social media content based on YouTube
 
 If you prefer to use the script version instead of the web app:
 
+for GPT version
 ```
-# for GPT version
+
 python social_media_agent.py
 ```
 
+for LLMA version
 ```
-# for LLMA version
+
 python social_media_llma_agent.py
 ```
 
